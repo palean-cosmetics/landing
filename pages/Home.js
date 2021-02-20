@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Image loading="eager" className={styles.image} src="/bg.png" alt="Picture of the author" layout="fill" objectFit="cover" />
+      <Image loading="eager" className={styles.image} src="/bg.webp" alt="Picture of the author" layout="fill" objectFit="cover" />
 
       <div className={styles.container}>
         <Logo className={styles.logo} />
